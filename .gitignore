@@ -1,0 +1,38 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment
+venv/
+
+# Ignore environment variables file
+.env
+
+# Ignore logs and temporary files
+logs/
+*.log
+*.tmp
+
+# Ignore output files
+data/
+output/
+*.csv
+
+# Ignore video files
+videos/
+*.mp4
+*.avi
+*.mov
+
+# Ignore screenshots (optional, remove if you want to track them)
+screenshots/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
