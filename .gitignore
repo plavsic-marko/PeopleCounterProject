@@ -26,8 +26,6 @@ videos/
 *.avi
 *.mov
 
-# Ignore screenshots (optional, remove if you want to track them)
-screenshots/
 
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
